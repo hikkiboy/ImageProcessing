@@ -1,0 +1,16 @@
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.Form1.resources
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.csproj.GenerateResource.cache
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.AssemblyInfoInputs.cache
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.AssemblyInfo.cs
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.csproj.CoreCompileInputs.cache
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\bin\Debug\net7.0-windows\ConvertToASCII.exe
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\bin\Debug\net7.0-windows\ConvertToASCII.deps.json
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\bin\Debug\net7.0-windows\ConvertToASCII.runtimeconfig.json
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\bin\Debug\net7.0-windows\ConvertToASCII.dll
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\bin\Debug\net7.0-windows\ConvertToASCII.pdb
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.dll
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\refint\ConvertToASCII.dll
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.pdb
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ConvertToASCII.genruntimeconfig.cache
+C:\Users\hikki\source\repos\ConvertToASCII\ConvertToASCII\obj\Debug\net7.0-windows\ref\ConvertToASCII.dll
